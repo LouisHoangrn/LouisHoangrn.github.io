@@ -1,16 +1,14 @@
 {
-  "name": "LouisHoangrn.github.io",
+  "name": "louishoangrn.github.io",
   "type": "module",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-   "scripts": {
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -21,5 +19,42 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.18",
     "vite": "^7.3.0"
-  }
+  },
+  "dependencies": {
+    "baseline-browser-mapping": "^2.9.10",
+    "browserslist": "^4.28.1",
+    "caniuse-lite": "^1.0.30001760",
+    "detect-libc": "^2.1.2",
+    "electron-to-chromium": "^1.5.267",
+    "enhanced-resolve": "^5.18.4",
+    "esbuild": "^0.27.2",
+    "escalade": "^3.2.0",
+    "fdir": "^6.5.0",
+    "fraction.js": "^5.3.4",
+    "graceful-fs": "^4.2.11",
+    "jiti": "^2.6.1",
+    "lightningcss": "^1.30.2",
+    "lightningcss-win32-x64-msvc": "^1.30.2",
+    "magic-string": "^0.30.21",
+    "nanoid": "^3.3.11",
+    "node-releases": "^2.0.27",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.3",
+    "postcss-value-parser": "^4.2.0",
+    "rollup": "^4.53.5",
+    "scrollreveal": "^4.0.9",
+    "source-map-js": "^1.2.1",
+    "tapable": "^2.3.0",
+    "tinyglobby": "^0.2.15",
+    "update-browserslist-db": "^1.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisHoangrn/LouisHoangrn.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LouisHoangrn/LouisHoangrn.github.io/issues"
+  },
+  "homepage": "https://github.com/LouisHoangrn/LouisHoangrn.github.io#readme",
+  "description": ""
 }
